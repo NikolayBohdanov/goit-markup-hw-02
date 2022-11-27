@@ -1,2 +1,2 @@
-# goit-markup-hw-02
-Second home Work for GoIT
+# go-it-lesson2
+My second home work for GoIt (add css).
