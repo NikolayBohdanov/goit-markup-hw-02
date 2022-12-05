@@ -137,7 +137,6 @@ body {
 }
 .link {
   text-decoration: none;
-  font-style: normal;
 }
 .list {
   list-style: none;
@@ -295,9 +294,12 @@ body {
   letter-spacing: 0.03em;
   color: var(--color-dark-text);
 }
+.team-text-box {
+  background-color: var(--color-primary);
+}
 /* Footer */
 .footer {
-  background-color: var(--color-dark-background);
+  background: var(--color-dark-background);
 }
 .logo-light {
   color: var(--color-primary);
@@ -305,6 +307,7 @@ body {
 .footer-address {
 }
 .address-list {
+  font-style: normal;
 }
 .address-item {
 }
